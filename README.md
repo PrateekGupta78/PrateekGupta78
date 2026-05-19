@@ -1,25 +1,46 @@
-Hi, I'm Prateek 👋
+Hi, I'm Prateek 👋🏻
 
-I help businesses automate data work and save hours of manual effort.
+I build Python-based automation, data cleaning, and web scraping workflows that help convert messy or repetitive data tasks into clean, structured, and usable outputs.
 
-### What I do
-- Web scraping (leads, emails, product data)
-- Data cleaning (Excel, CSV, messy datasets)
-- Automation (reports, daily scraping, workflows)
+What I work on
 
-### My work
-- Extracted business leads from Google Maps
-- Built email & contact scrapers
-- Automated monthly reports
-- Cleaned and structured messy data
+- Web scraping & structured data extraction
+- CSV / Excel data cleaning using Python
+- Automation workflows for repetitive tasks
+- Excel dashboards and reporting
+- Data formatting and standardization
 
-### Why work with me
-I focus on real business problems:
-- Save time
-- Reduce manual work
-- Deliver clean, ready-to-use data
+Tools & Technologies
 
-If you need scraping or automation → I can build it.
+- Python
+- pandas
+- BeautifulSoup
+- Excel
+- CSV
+- Git & GitHub
+
+Project Focus
+
+I focus on practical workflow-based projects such as:
+
+- multi-page web scraping
+- structured CSV dataset creation
+- Excel reporting dashboards
+- data cleaning automation
+- business-ready data formatting
+
+Current Goal
+
+Improving practical skills in:
+
+- Python automation
+- SQL
+- Power BI
+- business data workflows
+
+GitHub Purpose
+
+This GitHub profile is used to document practical projects, automation workflows, and real-world data handling practice.
 <!--
 **PrateekGupta78/PrateekGupta78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
